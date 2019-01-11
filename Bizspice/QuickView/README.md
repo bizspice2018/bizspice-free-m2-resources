@@ -2,7 +2,8 @@
 
 PURPOSE OF THIS REPOSITORY
 
-The purpose of this repository is to provide free resources and code backup of Quick View blog inMagento 2.x platform.
+This code is for Quick View functionality where we have added Quick View functionality.Basic idea is to add “Quick view” button on product box on category listing which when clicked will open modal window showing the product with all its functionality usually available only on product view page.
+
 
 Feel free to download it, use it and debug it. We appreciate your help. 
 
