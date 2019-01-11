@@ -1,0 +1,10 @@
+.modal-inner-wrap .product-quickview iframe {
+    width: 100%;
+    height: 100%;
+}
+.modal-popup .modal-inner-wrap{
+	height: 80%;
+}
+.modal-inner-wrap .modal-content ,.modal-inner-wrap .product-quickview{
+	    height: 100%;
+}
